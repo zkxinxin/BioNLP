@@ -1,0 +1,4246 @@
+insulin	96
+tnf-alpha	87
+ml-1	87
+lysozyme	86
+pepc	79
+npr1	72
+pcb	72
+ck	62
+phya	60
+nf-kappab	59
+il-6	55
+catalase	52
+rbcl	51
+bax	44
+cox-2	42
+nrf2	42
+adiponectin	42
+ferritin	42
+rps14	41
+su1	40
+il-1beta	39
+nadp-me	39
+cat	39
+abeta	37
+cop1	35
+spcas9	35
+ace	35
+ifn-gamma	34
+ctb	34
+cas9	33
+rpob	32
+hsp70	32
+ap2	32
+wus	30
+ns3	30
+hd1	30
+susiba2	30
+translin	30
+peroxidase	29
+c-fos	29
+hlf	29
+pbr	29
+eif4g	28
+nap1	28
+bcl-2	28
+pho1	28
+sps	28
+nac	27
+cp	27
+glp-1	27
+aat	27
+bri1	27
+hsp90	27
+jnk	26
+gi	26
+coat protein	26
+inos	26
+lfy	26
+albumin	25
+actin	25
+beta-catenin	25
+bi-1	25
+ppar-gamma	24
+ap1	24
+pcna	24
+bzip	24
+rhsa	24
+phyb	24
+il-10	23
+ha-1	23
+tumor necrosis factor-alpha	23
+phosphoenolpyruvate carboxylase	23
+coi1	23
+apoe	23
+alpha-tubulin	22
+c3g	22
+cd2	22
+tps	22
+pld	22
+serum albumin	21
+ubiquitin	21
+mre11	21
+tor	21
+sri	21
+p7-2	21
+rlk	21
+tahma2	21
+zip	21
+crc	21
+crop	20
+rad51	20
+acbp	20
+tn	20
+thioredoxin	20
+transferrin	20
+erk	20
+orf1	20
+dreb1a	20
+gm-csf	20
+ltb	20
+mir172	20
+htf	20
+spo11	20
+isa1	19
+max1	19
+caspase-3	19
+rgp2	19
+akt	19
+pho2	19
+ppo	19
+acos5	19
+sag12	19
+akt1	19
+ache	19
+cyp2b6	19
+scr	18
+hm-2	18
+il-4	18
+ppdk	18
+alpha-amylase	18
+cd4	18
+vegf	18
+ago1	18
+skp1	18
+constans	18
+ffr	18
+dcl4	18
+leptin	18
+crp	18
+ipp	18
+rft1	17
+rpd3	17
+max2	17
+milk protein	17
+rps16	17
+atlazy1	17
+myb	17
+siz1	17
+rcn1	17
+elf3	17
+rpl27	17
+hpt	17
+tyrosinase	16
+c-jun	16
+pti1	16
+ml	16
+phr1	16
+ap-1	16
+atnpr1	16
+avp1	16
+act1	16
+ige	16
+gal4	16
+xbat35	16
+flowering locus t	16
+mapk	16
+erf	16
+rubisco activase	16
+ap24	16
+hsp101	16
+clv3	15
+atwrky33	15
+ho-1	15
+p3 protein	15
+cry1	15
+rgp1	15
+hgm-csf	15
+matk	14
+ein3	14
+rpl2	14
+hei10	14
+cyp1a1	14
+atmyc2	14
+mir408	14
+abi5	14
+ccr4	14
+mhx	14
+bk2	14
+mig1	14
+rip1	14
+ivd	14
+interferon-gamma	13
+clpp	13
+swi1	13
+tert	13
+arf	13
+sex4	13
+caf1	13
+hpa1	13
+br	13
+glo1	13
+soc1	13
+cop9	13
+ovate	13
+epsps	13
+dcl1	13
+spa	13
+lao	13
+atstar1	13
+spm1	13
+sut1	13
+bdp1	13
+zmg1	12
+mlt	12
+inducible nitric oxide synthase	12
+rpoc2	12
+cenh3	12
+cuc2	12
+cob	12
+ar	12
+tb1	12
+proliferating cell nuclear antigen	12
+atphr1	12
+cyclooxygenase-2	12
+orf4	12
+fe	12
+dmc1	12
+rca	12
+glo4	12
+beta-glucuronidase	12
+pasta	12
+gbp	12
+gst	12
+igf-1	12
+svp	12
+cam	12
+tpc1	12
+rlf	12
+lox	12
+zmgf14-6	12
+hvft3	12
+cucumisin	12
+adh1	12
+mer3	12
+higf-1	12
+faah	12
+cat1	12
+raat	12
+pol	12
+oasa1	12
+phyc	12
+zpu1	12
+scfv	11
+interleukin-6	11
+m6a	11
+nam	11
+ccl4	11
+lipoxygenase	11
+atice1	11
+atbbd1	11
+smax1	11
+msr	11
+alpha-glucosidase	11
+lipase	11
+pin1	11
+npk	11
+bin2	11
+serotonin n-acetyltransferase	11
+ldlr	11
+shr	11
+atsag12	11
+agd2	11
+ald1	11
+crr1	11
+cbf1	11
+srd2	11
+rab5	11
+cbr	11
+tfl1	11
+hyl1	11
+asr1	11
+lipoxygenase-1	11
+toc1	11
+ela2	11
+rim1	11
+poly(a) polymerase	11
+rpl10	11
+wrky45	11
+slim1	11
+fon1	11
+arc3	11
+synaptotagmin	11
+metrs	11
+cap1	11
+tag1	11
+rps4	11
+rac1	10
+fgf2	10
+klu	10
+pgc-1alpha	10
+sod2	10
+hda1	10
+met1	10
+smxl6	10
+pep	10
+adf	10
+ghd7	10
+rep	10
+orf3	10
+hm2	10
+se	10
+qsh1	10
+gba	10
+beta2-microglobulin	10
+gw2	10
+atpa	10
+tmem16a	10
+acs	10
+mir159	10
+tap	10
+psy	10
+mir168	10
+ppargamma	10
+lif	10
+zmmads47	10
+atbi-1	10
+ob	10
+qqs	10
+max3	10
+sdh	10
+mel5	10
+rab	10
+mglp-1	10
+vq29	10
+rymv1-2	10
+atdog1	10
+rpl32	10
+atbzip60	10
+max4	10
+pgr5	10
+rp-e	10
+aux1	10
+idef1	10
+hvbri1	10
+nhx1	10
+tig1	10
+cca1	10
+pp2a	10
+tapr60	10
+sapk4	10
+sgr	10
+bif2	10
+osbz8	10
+ntrc	10
+mir399	10
+htpo	10
+rbcs	10
+zmpck2	9
+il-2	9
+cysteine protease	9
+c-reactive protein	9
+myeloperoxidase	9
+hda6	9
+nbs1	9
+hd3a	9
+tgf-beta	9
+rab7	9
+foxp3	9
+cuc1	9
+lsh1	9
+atlsh2	9
+stat3	9
+nrt1.1	9
+ovalbumin	9
+psba	9
+glut2	9
+glutathione s-transferase	9
+erf12	9
+aticl	9
+enos	9
+spi	9
+bdnf	9
+zat6	9
+art2	9
+mpo	9
+cerk1	9
+mir827	9
+set2	9
+fak	9
+ehd1	9
+comt	9
+attor	9
+gpi	9
+flo2	9
+pb(ii)	9
+attmem18	9
+atbak1	9
+leafy	9
+gpt	9
+el5	9
+cpk27	9
+atefr	9
+ethe1	9
+sad1	9
+re2	9
+noc	9
+emp5	9
+athxk1	9
+tfr	9
+hil-10	9
+sh2	9
+calnexin	9
+nag	9
+sdir1	9
+ela1	9
+rec8	9
+dma	9
+rrp46	9
+ggt	9
+fos1	9
+rpa	9
+pi-ta	9
+rus2	9
+attcp20	9
+hvlsi1	9
+rth3	9
+arr1	9
+fbp7	9
+rtcs	9
+ra2	9
+atarp4	9
+atopt6	9
+arc1p	9
+hvpip2;1	9
+aldh2a	9
+fus6	9
+sdhb	9
+cdc20	8
+vitellogenin	8
+atakt2	8
+glutathione reductase	8
+ice1	8
+pie1	8
+sog1	8
+ran	8
+cd	8
+cyp7a1	8
+zip8	8
+mir-315-5p	8
+lec1	8
+gcs	8
+an2	8
+annexin v	8
+nadp-malic enzyme	8
+ein2	8
+atnhx1	8
+dreb2a	8
+bzip19	8
+sucnr1	8
+atfpf1	8
+h+-atpase	8
+tawrky13	8
+agl6	8
+m3r	8
+gck	8
+zmpepc1	8
+zmrad51a	8
+ldlrap1	8
+n-acetyl-beta-d-glucosaminidase	8
+dmt-1	8
+prr	8
+abi1	8
+fibrinogen	8
+gad	8
+pif4	8
+hd17	8
+chld	8
+rsl4	8
+pparalpha	8
+psg	8
+dreb2	8
+roc4	8
+mir395	8
+ataf1	8
+vrn1	8
+raf	8
+her2	8
+anr1	8
+dpp-iv	8
+apc	8
+cold1	8
+cyclophilin	8
+nadk	8
+bak1	8
+atpad4	8
+atrpk1	8
+hil-7	8
+wrky13	8
+da2	8
+snf2	8
+ire1	8
+sgt1	8
+dvr	8
+daysleeper	8
+psy1	8
+acr4	8
+sae2	8
+osotp51	8
+chitinase	8
+pr-1	8
+crabs claw	8
+atsfr6	8
+ip6k	8
+trx	8
+jerf1	8
+rif1	8
+sed1	8
+nad7	8
+rus1	8
+atjmt	8
+atmkp1	8
+ph1	8
+mck1	8
+gmpdim	8
+pig-f	8
+atndpk2	8
+polyubiquitin	8
+pilt	8
+dad1	8
+nadp-me2	8
+grik1	8
+hexokinase	8
+hsa32	8
+hg-csf	8
+gid1	8
+pbf	8
+rsw3	8
+gaga	8
+nph1	8
+nit4	8
+ppt	8
+cftr	8
+gf14	8
+atla1	7
+scarecrow	7
+cycd3	7
+vtc1	7
+meta	7
+a10	7
+creb	7
+mterf	7
+rpoc1	7
+smxl7	7
+act3	7
+fah	7
+gsnor	7
+gnti	7
+cytochrome c	7
+fatty acid synthase	7
+ycf1	7
+tfam	7
+pr1	7
+tlr4	7
+caspase-8	7
+rpl16	7
+atlsh1	7
+eds1	7
+pdx-1	7
+androgen receptor	7
+ikappabalpha	7
+cle14	7
+gl2	7
+cyclin	7
+ho1	7
+kdp	7
+fos	7
+rps12	7
+zmnac34	7
+knat7	7
+la1	7
+ateds1	7
+clavata3	7
+bzr1	7
+pid	7
+p10	7
+pmr1	7
+atcerk1	7
+atnas1	7
+atics1	7
+rpl18	7
+pi54	7
+atpb	7
+glyr1	7
+gnt1	7
+ova	7
+igg2a	7
+ddm1	7
+atcyo1	7
+stn8	7
+hvpip2;5	7
+myb31	7
+myb42	7
+bt2	7
+ccd8	7
+atirt1	7
+tal	7
+granulocyte-macrophage colony-stimulating factor	7
+nsylcbl10	7
+cyp2e1	7
+hrs1	7
+mterf15	7
+pho80	7
+suv3	7
+btf3	7
+sos3	7
+rack1	7
+zyp1	7
+sos1	7
+er-beta	7
+osks2	7
+il-5	7
+tamate1b	7
+annexin	7
+cbf3	7
+mir529	7
+lactoferrin	7
+flc	7
+serpin	7
+ddf1	7
+ef7	7
+rymv1-3	7
+myb80	7
+pc4	7
+athkt1;1	7
+crn-5	7
+rap2.2	7
+tsrf1	7
+attzf1	7
+snep	7
+rck	7
+cry1ab/ac	7
+lhy	7
+tacry1a	7
+tacry2	7
+bln1	7
+granulocyte-macrophage colony stimulating factor	7
+pmp3	7
+eif-1	7
+conz1	7
+cul4	7
+enterotoxin	7
+mbn	7
+hvmate	7
+grik2	7
+tpr	7
+rhsp90	7
+wdreb2	7
+oep16	7
+abc1	7
+sac9	7
+clv1	7
+ppcol1	7
+cvp2	7
+mk1	7
+catb	7
+cd-f	7
+alpha(1)-antitrypsin	7
+gamma-tubulin	7
+tbzf	7
+pde1	7
+cox6b	7
+eya	7
+ntfad3	7
+kob1	7
+vp1	7
+pod	6
+dhcr7	6
+histone acetyltransferase	6
+sep3	6
+ragl	6
+atran1	6
+atbor1	6
+oct4	6
+mcm	6
+ost1	6
+sbe1	6
+zmmyb59	6
+rps8	6
+rps19	6
+spo11-1	6
+abi3	6
+atnrt1.1	6
+atcyp78a7	6
+lsh3	6
+pad4	6
+lazy1	6
+interleukin-1beta	6
+sllsi1	6
+tumor necrosis factor (tnf)-alpha	6
+dehydrin	6
+nqo1	6
+co(ii)	6
+ppr4	6
+atppr4	6
+cbbm	6
+cer1	6
+leu1	6
+angiotensin-converting enzyme	6
+glucokinase	6
+ms38	6
+atdreb1a	6
+mir168a	6
+man7/8/9	6
+trpv	6
+dcl3	6
+blg	6
+rtt109	6
+pai-1	6
+sdg8	6
+ispf	6
+bncysp1	6
+hcar	6
+her-2	6
+atdrb1	6
+glyr2	6
+glo3	6
+sqd2	6
+d2r	6
+atgols2	6
+gaa	6
+lsi1	6
+dwf4	6
+oat3	6
+bank	6
+mpk6	6
+atacbp6	6
+zein	6
+hgaa	6
+asmt	6
+pyl9	6
+fdc2	6
+dur1,2	6
+etec	6
+glyceraldehyde-3-phosphate dehydrogenase	6
+ppt1	6
+gr	6
+rh-ag	6
+gin2	6
+bas1	6
+efr	6
+orfb	6
+atpf	6
+p38	6
+rhon1	6
+erbb2	6
+cipk23	6
+galn	6
+an1	6
+ndpk	6
+atvip1	6
+mir164	6
+mir166	6
+da1	6
+ga5	6
+p7-1	6
+acetylcholinesterase	6
+snac1	6
+apetala1	6
+ribonuclease	6
+osj10gbtf3	6
+mda1	6
+pns10	6
+zmge2	6
+il-18	6
+ssr	6
+atd27	6
+ryr	6
+swap70	6
+dreb1b	6
+agl24	6
+cyp724a1	6
+hgh	6
+hdg1	6
+fdh	6
+fas1	6
+zmdof1	6
+ghrelin	6
+lsh4	6
+ppena1	6
+gly i	6
+tom1	6
+atrh36	6
+vrn2	6
+cyt b(5)	6
+glyoxalase i	6
+grp7	6
+mitochondrial	6
+pre1	6
+ssp	6
+fon2	6
+roxy1	6
+ddb1	6
+prl1	6
+pphak1	6
+rbcs3a	6
+fmo	6
+ltp	6
+adc	6
+srm1	6
+ste7	6
+csl	6
+psrp-7	6
+p43	6
+atrecqsim	6
+snf2p	6
+trna(trp)s	6
+gac	6
+psk-alpha	6
+odc	6
+cecropin b	6
+ss1	6
+hsc70	5
+tumor necrosis factor alpha	5
+asy1	5
+abf1	5
+mitf	5
+smad3	5
+lon	5
+l-1	5
+ago2	5
+atm	5
+atxxt1	5
+pto	5
+ccz1	5
+gef	5
+zfp36l1	5
+fancm	5
+asparagine synthetase	5
+tnfalpha	5
+odc1	5
+oaz1	5
+hat	5
+atplc9	5
+tir1	5
+ctr1	5
+atsos1	5
+atp6	5
+atwri1	5
+wrky33	5
+atcyp94b1	5
+sod1	5
+atacbp3	5
+opr3	5
+dog1	5
+omt1	5
+gstp1	5
+glutaredoxin	5
+cpr5	5
+et-1	5
+mtorc1	5
+csnpr1-2	5
+cyclin d1	5
+interleukin (il)-6	5
+caspase-9	5
+dbr	5
+atnhx6	5
+scf	5
+frp	5
+msh4	5
+mmp-9	5
+atmyb44	5
+rps2	5
+heme oxygenase-1	5
+gluc	5
+lf	5
+gpx	5
+acid phosphatase	5
+psbh	5
+mal d 1	5
+grp78	5
+beta-lactoglobulin	5
+rio2	5
+get3	5
+ngg-1	5
+raptor1b	5
+bhlh39	5
+bhlh101	5
+lap5	5
+ampk	5
+ppar-alpha	5
+psbb	5
+pepsin c	5
+hpgc	5
+sglt1	5
+xrn4	5
+per2	5
+kras	5
+hy5	5
+athy5	5
+h1 r	5
+cd11b	5
+slgh3.4	5
+dur3p	5
+crk	5
+alpha-1,3	5
+mmp-2	5
+psab	5
+mtgf-beta	5
+nf-yb	5
+mir160	5
+pgc1alpha	5
+bt1	5
+dwarf27	5
+hspa1a	5
+bax inhibitor-1	5
+mek	5
+fkf1	5
+atslac1	5
+atost1	5
+nlst16	5
+zmdull1	5
+nnos	5
+ass1	5
+spl11	5
+ahp1	5
+arr4	5
+cbl1	5
+sos2	5
+rd29b	5
+p53	5
+gpd	5
+apoa5	5
+g20	5
+irx9	5
+irx14	5
+fls2	5
+spdifs1	5
+spdifs2	5
+atgrp7	5
+csb	5
+bntr1	5
+hen1	5
+atmyb60	5
+cs	5
+rdr6	5
+bd1	5
+xbp1	5
+vps22	5
+endo-(1,4)-beta-glucanase	5
+sgs1	5
+pc3	5
+hint	5
+mc1r	5
+lyk4	5
+hmgr	5
+histone h1	5
+tapr61	5
+growth hormone	5
+atmyb80	5
+atpase	5
+insulin-like growth factor-1	5
+duo1	5
+zmcbf3	5
+calmodulin	5
+aprr1	5
+rdl	5
+aip2	5
+tasrg	5
+atrbp45b	5
+atmyb102	5
+cre1	5
+hvnip2;1	5
+erebp	5
+mef9	5
+arf1	5
+urh1	5
+pollux	5
+npk1	5
+recq4p	5
+cpd photolyase	5
+rac	5
+ore9	5
+hvgr1	5
+hvgr2	5
+lg1	5
+pex5	5
+pinoid	5
+tatc	5
+u1-70k	5
+gox	5
+vdac	5
+pinb	5
+fca	5
+myn	5
+atnap	5
+atysl1	5
+ntadh	5
+dim	5
+dwf1	5
+hm1	5
+abf3	5
+drb4	5
+pabp	5
+atcrr2	5
+cax1	5
+ftsz	5
+hgt1	5
+ron2	5
+tif	5
+cps	5
+hcf101	5
+iso1	5
+ntcam1	5
+ntcam3	5
+ntcam13	5
+cdks	5
+spc98p	5
+ntmads4	5
+stb-1	5
+atpakrp1	5
+agp	5
+ga1	5
+cat3	5
+blufensin1	4
+glutamine synthetase	4
+alp	4
+phosphoenolpyruvate carboxykinase	4
+skn-1	4
+daf-16	4
+esr1	4
+drn	4
+c-peptide	4
+pc2	4
+e3 ubiquitin ligase	4
+jnk2	4
+starch synthase	4
+snt	4
+akt2	4
+gip	4
+kluh	4
+hac1	4
+smxl8	4
+inp1	4
+bor	4
+tub9	4
+atrad51	4
+gl1	4
+gl3	4
+ttg1	4
+ubc32	4
+zip14	4
+il-8	4
+cers3	4
+occludin	4
+ctf4	4
+rd3	4
+keap1	4
+cathepsin b	4
+peroxisome proliferator-activated receptor gamma	4
+ugt74e2	4
+atspo11-1	4
+ecsat	4
+interleukin-10	4
+otub1	4
+sirt1	4
+atbbd2	4
+akr4c9	4
+ubp8	4
+n ha-1	4
+lacs9	4
+glut4	4
+tgf-beta1	4
+heme oxygenase 1	4
+uhg	4
+fpf1	4
+heat shock protein	4
+apetala2	4
+miz1	4
+glabra2	4
+set3	4
+icl	4
+lpd	4
+dnk	4
+rankl	4
+sas3	4
+dep1	4
+leu4	4
+rcar3	4
+transferrin receptor	4
+pept1	4
+protoporphyrinogen ix oxidase	4
+pgk	4
+rpc53	4
+tfc1	4
+zmsnac1	4
+snf7	4
+sur2	4
+dgat1	4
+dgat2	4
+dgat3	4
+gp120	4
+mbr	4
+atnramp3	4
+nrt2	4
+bglu45	4
+ast	4
+cab1	4
+akt/pkb	4
+pht5	4
+pelota	4
+insulin receptor	4
+csrc	4
+p130cas	4
+hothead	4
+pif5	4
+dth2	4
+cys-c1	4
+bcl-xl	4
+fil	4
+glucose-6-phosphate-isomerase	4
+il-17	4
+gitr	4
+chli2	4
+gamma-gcs	4
+atsiz1	4
+rad9	4
+atm3	4
+psaa	4
+hmgcr	4
+gen1	4
+mus81	4
+atmyb61	4
+abi4	4
+mpk1	4
+ash1	4
+zmmads1	4
+fb2	4
+det1	4
+rap	4
+pao	4
+atwrky57	4
+ha(-1)	4
+sfd1	4
+gastrin	4
+motilin	4
+met	4
+irt1	4
+igg1	4
+syg1	4
+pho81	4
+fis1	4
+atcomt	4
+dbi	4
+flp	4
+tlr-4	4
+caspase-3 and -8	4
+calcium-sensing receptor	4
+acs1	4
+eil1	4
+raptor	4
+lst8	4
+mucin	4
+ubq10	4
+atf2	4
+slsut2	4
+gpa1	4
+flowering locus c	4
+e2	4
+vascular endothelial growth factor	4
+expansin	4
+pia	4
+pita	4
+leukemia inhibitory factor	4
+rb1	4
+isa2	4
+tnf	4
+ljnfr1	4
+beta(2)	4
+rpk1	4
+face	4
+amyloid beta	4
+rcd1	4
+igfbp-3	4
+fac	4
+arp1	4
+pac2	4
+athk1	4
+il-13	4
+hdg11	4
+hk1	4
+ext	4
+gclc	4
+atmhx	4
+fus3	4
+caf	4
+mcaf	4
+agl17	4
+rgl1	4
+tacps2	4
+rpn11	4
+ntr	4
+msh	4
+ep1	4
+mbp	4
+lyk1	4
+pns11	4
+apolipoprotein e	4
+atswap70	4
+rte1	4
+rpoa	4
+rmrp	4
+mgm-csf	4
+slc19a1	4
+mmp-7	4
+nt-4/1	4
+lsi2	4
+higf-i	4
+yap1	4
+ang ii	4
+expa7	4
+pdi	4
+hvtom1	4
+anac047	4
+gid1b	4
+ce-2	4
+ra3	4
+mips	4
+gid2	4
+ifn	4
+adh2	4
+acl5	4
+gsh-px	4
+asl39	4
+ibh1	4
+apolipoprotein b	4
+bcd1	4
+athta1	4
+pi21	4
+ph	4
+glua2	4
+mglua2	4
+argos	4
+ric1	4
+hmg1	4
+castor	4
+recq4	4
+putpmp3	4
+cyp78a5	4
+mps1	4
+dynamin	4
+xrcc1	4
+atiamt1	4
+arr12	4
+hrd	4
+stk	4
+prolactin	4
+trna	4
+gt1	4
+hdl2	4
+hdl3	4
+serine racemase	4
+hkt1;5	4
+mgf	4
+hexa	4
+ga1-3	4
+df	4
+coq2	4
+cyp2b22	4
+cyp2c49	4
+ysl1	4
+atftsh1	4
+var1	4
+atftsh2	4
+u6atac	4
+mgl	4
+alpha-1-antitrypsin	4
+tsl	4
+rop2	4
+nf-yc	4
+osrps7	4
+nph3	4
+atcrr1	4
+zmm16	4
+cad	4
+pol lambda	4
+glurs	4
+atcre1	4
+rhodopsin	4
+ft	4
+ntmads11	4
+atpsk2	4
+atpsk3	4
+agl9	4
+beta-tg	4
+atcox6b2	4
+sec31p	4
+abi1-1	4
+subtilase	4
+viviparous1	4
+nramp	4
+atnramp1	4
+erg6	4
+grf1	4
+glycinin	4
+cat2	4
+gp91phox	4
+mcope	3
+pht1	3
+tf	3
+nac67	3
+erg5	3
+xldhcr7	3
+zmglk1	3
+phytoene desaturase	3
+apobec3a	3
+trp-1	3
+lectin	3
+sirt3	3
+atxr5	3
+atxr6	3
+cor15a	3
+methyltransferase 1	3
+vamp7	3
+vti1a	3
+zmmrp-1	3
+rga	3
+starch synthase iia	3
+per	3
+atxxt5	3
+lpl	3
+gpihbp1	3
+htgl	3
+sugary1	3
+hae1	3
+bor1	3
+hexokinase 1	3
+gamma-h2ax	3
+prp19	3
+cwf15	3
+lpsb	3
+aid	3
+ndhb	3
+bet	3
+med25	3
+glucosylceramide synthase	3
+spt2	3
+zo-1	3
+nox2	3
+telomerase reverse transcriptase	3
+fis2	3
+ornithine decarboxylase	3
+glutathione-s-transferase	3
+psa	3
+era1	3
+fkbp12	3
+atrd29a	3
+auxin response factor	3
+athkt1	3
+pparg	3
+pr2	3
+tyrosinase-related protein 1	3
+mitogen-activated protein kinase 1	3
+rpl14	3
+atg5	3
+atspo11-2	3
+hepcidin	3
+mtor	3
+sod	3
+phytochrome b	3
+ikappab-alpha	3
+cspr1-2	3
+xrcc3	3
+prr5	3
+rab5a	3
+rapobec1	3
+fcr	3
+taagl6	3
+itpk1	3
+itpk2	3
+histamine h1 receptor	3
+opg	3
+runx 2	3
+pskr1	3
+zip2	3
+hst	3
+hairless	3
+atpip1;4	3
+gst-p	3
+gigantea	3
+rpl23	3
+rpm1	3
+cox2	3
+osh1	3
+pex13	3
+pex14	3
+nga	3
+il-31	3
+nca1	3
+zrc1	3
+chl1	3
+pif3	3
+gclm	3
+syp121	3
+apase	3
+atbig	3
+atdmc1	3
+dbp	3
+ataf1/2	3
+nbs	3
+grf3	3
+als3	3
+dopamine d2 receptor	3
+atrfc1	3
+atiaa14	3
+cyclooxygenase (cox)-2	3
+l-fabp	3
+cystathionine gamma-synthase	3
+bhlh38	3
+bhlh100	3
+myc2	3
+ypk3	3
+pi3k-alpha	3
+glut-2	3
+ndhh	3
+aryl hydrocarbon receptor	3
+c2h2	3
+parp	3
+su(var)3-9	3
+chl	3
+mda5	3
+zmincw1	3
+erv14	3
+jak2	3
+apob	3
+abca1	3
+copt1	3
+pbl27	3
+epfl9	3
+put5	3
+as(v)	3
+sard1	3
+pyl10	3
+atshr	3
+grmzm2g315431	3
+ath1	3
+protein p8	3
+atmyb63	3
+oscp	3
+beta-1,2	3
+alpha1-antitrypsin	3
+sps1	3
+elo3	3
+caspase	3
+crs1	3
+rad1	3
+ppiase	3
+atacbp1	3
+fps1	3
+peroxisome proliferator-activated receptor-gamma	3
+lipoprotein lipase	3
+acd1	3
+dscam	3
+mil-4	3
+mil-6	3
+atnf-yc4	3
+zmbt1	3
+atacbp	3
+more axillary growth2	3
+tpr2	3
+cry2	3
+atsuc2	3
+eif4a	3
+atcyp19-4	3
+lpa1	3
+atmyb103	3
+cbl10	3
+d27	3
+hub1	3
+hub2	3
+cas	3
+hgalt	3
+fet3fet4	3
+ppil1	3
+atpao5	3
+matp	3
+pep4	3
+fra1-5	3
+scl33	3
+bat2	3
+ethylene insensitive3	3
+mpk3	3
+nad2	3
+u-pa	3
+cd8	3
+aba2	3
+rdr1	3
+cbl4	3
+ao7	3
+tlr-2	3
+dhfr	3
+ljnfr5	3
+nin	3
+hegf	3
+atgrp2	3
+insulin-like growth factor-i	3
+osteocalcin	3
+eod1	3
+aah	3
+caspase-1	3
+tran	3
+cholesterol 7alpha-hydroxylase	3
+atedt1	3
+sc65	3
+atcop1	3
+gcb	3
+thf1	3
+bzip60	3
+mud	3
+sig1	3
+ipt	3
+ydj1	3
+prx	3
+phytoene synthase	3
+rgl2	3
+tacps1	3
+tacps3	3
+mth	3
+agg3	3
+starch synthase i	3
+atpap2	3
+dsp4	3
+cyp707a3	3
+etr1	3
+vcam-1	3
+mthfr	3
+ahl	3
+tsa	3
+squalene synthase	3
+gte4	3
+ocn	3
+psac	3
+dof1	3
+cmlsi2-1	3
+cmlsi2-2	3
+aqp2	3
+cp/sp	3
+sss1	3
+sss2a	3
+aip1	3
+putative	3
+kss1	3
+pb-i	3
+atnug2	3
+aterf5	3
+cobl4	3
+pdk1	3
+sec22	3
+cest	3
+ucp1	3
+rcmips	3
+mir170	3
+ccd1	3
+hrrp46	3
+tbl3	3
+pra1	3
+rar1	3
+mnei	3
+qltg3-1	3
+alpha' subunit	3
+tas3	3
+pdf1.2	3
+as(i)	3
+gaut1	3
+defensin	3
+spch	3
+trail	3
+lhs1	3
+atg8	3
+pnd	3
+hap2	3
+hd16	3
+proteinase	3
+ntmkp1	3
+neurotoxin	3
+ems1	3
+arr10	3
+ufo	3
+lg3	3
+nas1	3
+atpex5	3
+tramp	3
+sos	3
+agamous	3
+spindly	3
+spy	3
+ubi	3
+b10	3
+atgid1b	3
+atoep16	3
+rif10	3
+hop1	3
+iqd1	3
+ys1	3
+by2	3
+orc2	3
+cafs	3
+u4atac	3
+orp2	3
+alpha 1-antitrypsin	3
+arp4	3
+glo	3
+rab17	3
+attert	3
+clavata1	3
+pip5k	3
+atopt7	3
+amy2	3
+cch1	3
+dna pol beta	3
+snail	3
+erl1	3
+fib	3
+zmmrp1	3
+zmmrp2	3
+zmmrp1 and 2	3
+pds	3
+hggt	3
+mod1	3
+recqsim	3
+beta2	3
+ddb2	3
+hsp104	3
+tpp	3
+h(+)-atpase	3
+npl1	3
+riz	3
+brf1	3
+rpr1	3
+ste12	3
+drap1	3
+renin	3
+cyclin h	3
+orc1	3
+gps1	3
+gbss	3
+zag2	3
+puroindoline-b	3
+ribosomal protein s9	3
+fpps	3
+cenp-b	3
+importin-alpha	3
+zcn8	2
+gs	2
+stomatal cytokinesis defective2	2
+enhancer of shoot regeneration1/dornroschen	2
+enhancer of shoot regeneration1	2
+dornroschen	2
+ethylene-insensitive3	2
+zmdmas1	2
+nut	2
+wuschel	2
+ore1	2
+glk1	2
+arsc	2
+lstrir1/2	2
+irf1	2
+apobec1	2
+trp-2	2
+hawaiian skirt	2
+gpr41	2
+gpr43	2
+atr	2
+bru1	2
+cor47	2
+rad50	2
+swi2	2
+ant	2
+atnlp6/7	2
+atxxt2	2
+atxxt1/2/4	2
+ndha	2
+slpti1	2
+ferredoxin 1	2
+drm2	2
+atmms21	2
+smad2/3	2
+pip2;1	2
+znt10	2
+constitutive photomorphogenic 1	2
+grp19	2
+cnr1	2
+mediator25	2
+s-nitrosoglutathione reductase	2
+hsf7	2
+atsweet2	2
+leafy cotyledon1	2
+beta-glucocerebrosidase	2
+mucin 5ac	2
+il-33	2
+tslp	2
+chromosome transmission fidelity protein 4	2
+atfancm	2
+human enhancer of invasion 10	2
+octamer-binding transcription factor 4	2
+bf2	2
+bf1	2
+emf2	2
+nrf-2	2
+gpx1	2
+trxr2	2
+mcm 2-10	2
+cuc3	2
+prostate-specific antigen	2
+glutamate decarboxylase	2
+srebp1	2
+nfkappab	2
+xanthine oxidase	2
+nlrp3	2
+heat shock protein 70	2
+gcs1	2
+afp2	2
+atugt74e2	2
+pr5	2
+wri1	2
+butyrylcholinesterase	2
+bche	2
+pig1	2
+pek	2
+rage	2
+cyp94b1	2
+inducer of cbf expression 1	2
+karrikin	2
+kar	2
+rpl33	2
+tpd1	2
+zmomt1	2
+plasminogen activator inhibitor-1	2
+monocyte chemotactic protein-1	2
+tau	2
+a3a	2
+glucose transporter 2	2
+gabaa	2
+rad51d	2
+atsqd1	2
+ctla-4	2
+il-1	2
+irs1	2
+transforming growth factor beta1	2
+atadc1	2
+vba2	2
+actin-depolymerizing factor	2
+cdk4	2
+methionine sulfoxide reductase	2
+nf-e2)-related factor 2	2
+kelch-like ech-associated protein 1	2
+glutamate cysteine ligase catalytic subunit	2
+atpdr2	2
+suppressor of gamma response 1	2
+atx	2
+pif1	2
+atnhd1	2
+no3	2
+osmads50	2
+gs3	2
+fad2	2
+rela	2
+ethylene response factor12	2
+mir319a	2
+atede1	2
+atmap65-4	2
+atnla	2
+nuclear factor erythroid 2-related factor 2	2
+nox4	2
+icam1	2
+atubp13	2
+aquaporin	2
+pin-formed1	2
+pyr1	2
+athda6	2
+fe(iii)	2
+cullin1	2
+bck1	2
+pufa	2
+brain-derived neurotrophic factor	2
+extracellular signal-regulated kinase	2
+zip3	2
+zip4	2
+msh5	2
+leu3	2
+chk2	2
+mdm2	2
+ctdsp1	2
+wxb	2
+rfc2/3/4/5	2
+matrix metalloproteinase (mmp)-2	2
+mmp-3	2
+heading date 1	2
+bcl-2-associated x protein	2
+mitogen-activated protein kinase	2
+mpk	2
+nuclease	2
+vip1	2
+atmax3	2
+atcyp707a3	2
+microphthalmia-associated transcription factor	2
+chop	2
+nia1	2
+nia2	2
+dme	2
+cox3	2
+bsu1	2
+cs26	2
+slpt2	2
+dcap	2
+pres	2
+dwarf14	2
+endothelial nos	2
+crl1	2
+big	2
+low-density lipoprotein receptor adaptor protein 1	2
+sbp	2
+lap6	2
+grain width 2	2
+phosphoglycerate kinase	2
+yippee	2
+mmps	2
+sark	2
+bcl2	2
+grin2d	2
+nfr1	2
+nfr5	2
+atrfc2/3/4/5	2
+atmt1c	2
+atmt4a	2
+wox5	2
+jam-a	2
+fdm1	2
+a beta	2
+npm	2
+atsweet1	2
+esk1	2
+dad2	2
+ashh2	2
+mmp	2
+mmp-1	2
+ics	2
+ntics	2
+hbche	2
+peroxisome proliferator-activated receptor (ppar)-alpha	2
+ribosomal protein l18	2
+gux1/2/3	2
+jnk1/2	2
+erk1/2	2
+npcr	2
+microrna827	2
+pepsinogen c	2
+ir	2
+rymv1-4	2
+alpha1-3	2
+alpha1-6	2
+nitrate reductase	2
+csi1	2
+ehd2	2
+ehd3	2
+athak5	2
+gmp	2
+tlr3	2
+trif	2
+caspase 1	2
+oresara1	2
+gn1a	2
+uref	2
+argonaute 1	2
+ccl2	2
+bsk1	2
+myb4	2
+myb75	2
+myb90	2
+myb113	2
+myb114	2
+bil1	2
+gamma-glutamylcysteine synthetase	2
+atmapkkk5	2
+atsard1	2
+ftip1	2
+tps10	2
+cbl	2
+bccp2	2
+tahsp17	2
+atflo2	2
+vrp1	2
+irs-1	2
+srebp-1	2
+scd-1	2
+br6ox2	2
+slx4	2
+aae3	2
+alpha-1,6	2
+polyprotein p2a	2
+demeter	2
+cp2	2
+cer2	2
+pkc	2
+alpha-lactalbumin	2
+pyy	2
+acyl-coa synthetase5	2
+aba1	2
+hog1	2
+cyo1	2
+sar1b	2
+sidecar pollen	2
+a1, b, b1	2
+atmpk6	2
+rns1	2
+kox	2
+rnp	2
+zmpsy1	2
+nov	2
+tdt	2
+c-jun n-terminal kinase	2
+early flowering3	2
+peroxisome proliferator-activated receptor gamma coactivator 1-alpha	2
+ntasultr2	2
+ask1	2
+flowering locus d	2
+fld	2
+mpges-1	2
+hmg-coar	2
+cdc55	2
+sirt6	2
+cyp1a2	2
+opaque2	2
+down syndrome cell adhesion molecule	2
+exp.1	2
+exp.2	2
+ccd7	2
+gh	2
+alt	2
+gp-i	2
+nst3	2
+sdr4	2
+crr28	2
+rare1	2
+dr5	2
+gcn5	2
+hda19	2
+suppressor of overexpression of constans 1	2
+atnf-yb2/3	2
+ndr1	2
+gly1	2
+tagols1	2
+tagols2	2
+tmem18	2
+atacbp4	2
+atacbp5	2
+orf2	2
+epidermal growth factor receptor 2	2
+slac1	2
+hot	2
+hsa	2
+cholecystokinin	2
+pr1b	2
+gsk3beta	2
+atccd8	2
+yak1	2
+phl1	2
+citrate synthase	2
+gapdh	2
+nlst1	2
+gp1	2
+hsp90-1	2
+carnitine palmitoyltransferase (cpt) 1a	2
+c/ebpalpha	2
+srebp-1c	2
+angiotensin converting enzyme	2
+mflp	2
+ataux1	2
+apx	2
+atmyb58	2
+dna polymerase lambda	2
+cut1	2
+atnip5;1	2
+beta1-4	2
+atdcl1	2
+pho84	2
+flavin-binding	2
+f-box 1	2
+alaat1	2
+polyamine oxidase 5	2
+ef-tu receptor	2
+membrane-associated transporter protein	2
+sec24	2
+sec27	2
+pra	2
+vpe2	2
+pub13	2
+myosin	2
+ubiquitin-10	2
+atfls2	2
+nad5	2
+atnced3	2
+drb1	2
+atmpk3	2
+cyp51	2
+tramtrack	2
+pho4	2
+pho85	2
+atza	2
+sas	2
+coronatine insensitive 1	2
+urokinase-type plasminogen activator	2
+interleukin (il)-10	2
+spo11-1 and -2	2
+a20	2
+pii	2
+ps1	2
+mpk3/6	2
+atmyb26	2
+caspase-3 and -9	2
+ldl-receptor	2
+pheres1	2
+p5cs1	2
+cyp703a2	2
+poc1	2
+toll-like receptor 4	2
+cystatin	2
+iron regulated transporter 1	2
+glutathione peroxidase	2
+apolipoprotein a-v	2
+atarr12	2
+bri1-associated receptor kinase 1	2
+brassinazole-resistant1	2
+atnip6;1	2
+il-1 beta	2
+vq motif-containing protein29	2
+mtnf	2
+cps1	2
+cd49b	2
+interferon (ifn)-gamma	2
+rd29a	2
+atx1	2
+glycosyltransferase	2
+ehd1-4	2
+nucleolin	2
+igf-i	2
+atkat1	2
+bmp-2	2
+sparc	2
+runx-2	2
+osx	2
+postn	2
+calcitonin receptor	2
+ipt3	2
+ga20ox1	2
+phytochrome c	2
+tasgt1	2
+pch2	2
+trip13	2
+frigida	2
+ripk3	2
+rpl5	2
+mtp1	2
+nterf3	2
+tfiia	2
+atepfl9	2
+atepf1	2
+adenosine kinase	2
+carb	2
+sc35	2
+atrecq4a	2
+lec2	2
+cryptochrome 1	2
+cholinesterase	2
+atgap1	2
+terminal flower1	2
+mez2	2
+mez3	2
+mapkkk	2
+atsfh1	2
+not2b	2
+glucose-insensitive2	2
+atabi5	2
+mon1	2
+fbp1	2
+pck1	2
+5-lox	2
+ssc1	2
+cer 1	2
+pc5	2
+lsh1 and oryza g1	2
+atfla11	2
+gpd1	2
+attpc1	2
+u11/u12-31k	2
+gshpx	2
+trehalose-6-phosphate synthase	2
+apo2	2
+hy1	2
+glucose-6-phosphatase	2
+g6 pase	2
+pepck	2
+hyd	2
+melanocortin 1 receptor	2
+tyr	2
+tyrp1	2
+gamma-tocopherol methyltransferase	2
+shrunken-2	2
+put1	2
+arr2	2
+zmsh1-5	2
+com1	2
+pap	2
+rte1-2	2
+lsp	2
+early flowering 3	2
+nuclear factor-kappab	2
+vascular cell adhesion molecule-1	2
+intercellular adhesion molecule-1	2
+icam-1	2
+tsh1	2
+rho-hydroxyphenylpyruvate dioxygenase	2
+hppd	2
+aqp9	2
+fbh1	2
+swi6	2
+slt2	2
+red1	2
+s100b	2
+atsweet11	2
+atbor4	2
+topless	2
+tpl	2
+win1	2
+shn1	2
+purf	2
+sec19	2
+dur3	2
+mtb1	2
+apo1	2
+myb46	2
+dam1	2
+grd	2
+hvidef1	2
+atnrt2.1	2
+matrix metalloproteinase (mmp)-7	2
+wax2	2
+pr	2
+phf1	2
+aryl hydrocarbon hydroxylase	2
+ks	2
+peta	2
+cdc15	2
+ztl	2
+barren stalk fastigiate1	2
+ba1	2
+by-2	2
+cyp714a1	2
+cyp714a2	2
+cd-1	2
+cup-shaped cotyledon1	2
+cyp734a1	2
+receptor-like kinase	2
+protein disulfide isomerase	2
+nug2	2
+dma/ma	2
+atwnk1	2
+aqp3	2
+aqp5	2
+tom22	2
+badh2	2
+rps3	2
+axr1	2
+bud1	2
+uncoupling protein 1	2
+beta3-ar	2
+p75ntr	2
+l-myo-inositol-1-phosphate synthase	2
+cd45rb	2
+dicer	2
+rps18	2
+dbp8p	2
+photoperiod-independent early flowering1	2
+coq1	2
+cytochrome b(5)	2
+slg	2
+lrp1	2
+nadk2	2
+atpho1	2
+adh	2
+aldh	2
+casein kinase ii	2
+cytochrome p450	2
+vldl receptor	2
+roxy2	2
+opaque-2	2
+ac2	2
+agp23	2
+erythropoietin	2
+ssi2	2
+root uv-b sensitive1	2
+cyp11a1	2
+hsd3b	2
+sui1	2
+zep	2
+ski-interacting protein	2
+zmlg1	2
+athda8	2
+athda14	2
+athda5	2
+athda15	2
+athda18	2
+acox1	2
+tat	2
+cyp2a5	2
+hsp	2
+tcp20	2
+groel	2
+microtubule-associated protein	2
+hmg2	2
+paused	2
+mao-b	2
+indeterminate1	2
+id1	2
+lpa3	2
+hbp	2
+mkp1	2
+myoglobin	2
+pol beta	2
+rad2	2
+roc1	2
+akin10	2
+atrci2a	2
+atrci2b	2
+beta(2)-microglobulin	2
+rbp	2
+gyrb	2
+itr1	2
+nos3	2
+toc159	2
+crsh	2
+eif4e	2
+mir156b	2
+hardy	2
+shp1	2
+shp2	2
+ferredoxin iii	2
+gr1	2
+gr2	2
+atsk21	2
+yab3	2
+ful	2
+morf	2
+f3h	2
+liguleless1	2
+kat1	2
+wlhs1-a	2
+l-asparaginase	2
+la	2
+lp(a)	2
+sep	2
+flavin-monooxygenase	2
+egknox1	2
+acr2	2
+kojak	2
+atcsld3	2
+apetala3	2
+psb a	2
+eil3	2
+cobra	2
+hctla4igm	2
+al1	2
+pak1	2
+tos3	2
+elm1	2
+dtok	2
+td1	2
+sucrose phosphate synthase	2
+asr2	2
+pop3	2
+atgid1a	2
+atgid1c	2
+cyp2c19	2
+cox-1	2
+ahi1	2
+atmyb59	2
+lhcb7	2
+lhcb4.3	2
+rpa32	2
+bin 1	2
+bin 2	2
+ramosa2	2
+iqd20	2
+granulocyte-colony stimulating factor	2
+gus	2
+rab11	2
+atwrky29/22	2
+atgex1	2
+atgex2	2
+var2	2
+diminuto/dwarf1	2
+atrpa70a	2
+atrpa70b	2
+lsd1	2
+orp1	2
+drb2	2
+alb	2
+tousled	2
+nf-ya	2
+nor 1	2
+paip1	2
+paip2	2
+rpdcd5	2
+dhn2	2
+crinkly4	2
+atcrr3	2
+atcrk1	2
+plastid-specific ribosomal protein-7	2
+atp synthase	2
+cytochrome b6/f	2
+rrf	2
+ribosomal protein s14	2
+phosphatidylinositol-4-phosphate 5-kinase	2
+kha1	2
+atspds3	2
+rotunda2	2
+leunig	2
+dna polymerase beta	2
+rtgp	2
+methionyl-trna synthetase	2
+mes1	2
+p21	2
+suppressor of overexpression of co 1/agamous-like 20	2
+agl20	2
+atein2	2
+etr2	2
+ein4	2
+protein p3	2
+arc-1	2
+fumonisins b(1) and b(2)	2
+atcry1	2
+vit	2
+rad27	2
+proton pump	2
+thrombopoietin	2
+atppc4	2
+atppc1	2
+atppc2	2
+atppc3	2
+uv-ddb2	2
+alpha-n-acetylgalactosaminidase	2
+poly(a)-binding protein	2
+poltergeist	2
+atopr1	2
+atopr2	2
+leopr1	2
+pi-a	2
+atedr1	2
+rsw1	2
+rsw2	2
+c-6 oxidase	2
+gsa1	2
+fantom	2
+lov1	2
+ire1p	2
+est	2
+asa2	2
+nim1	2
+creatine phosphokinase	2
+fxa	2
+sucrose-phosphate synthase	2
+egg albumin	2
+capsid protein (p8	2
+cop11	2
+hepatic lipase	2
+nadp-dependent malic enzyme	2
+isovaleryl-coa dehydrogenase	2
+granule-bound starch synthase	2
+gamma-cop	2
+beta'-cop	2
+nramp1	2
+atnramp2	2
+superman	2
+atfus6	2
+formate dehydrogenase	2
+phi-1	2
+farnesyl diphosphate synthase	2
+knotted1	2
+cdk2	2
+nodulin	2
+adp-glucose pyrophosphorylase	2
+p4b	2
+hex	2
+rac3	1
+gs1	1
+gs2	1
+scd2	1
+trnh	1
+atcrn	1
+atein3	1
+zmnaat1	1
+hap1	1
+frap	1
+bean	1
+arginine decarboxylase	1
+adc2	1
+nac74	1
+nac71	1
+syn1	1
+foxo1a	1
+elovl5	1
+casp3	1
+fdc1	1
+atmyb4	1
+slc2a1	1
+glut1	1
+rospv1-6	1
+erg4	1
+spl9	1
+hvnhx1	1
+hvnhx4	1
+fibroblast growth factor 2	1
+lstrobp4/9	1
+lstrcsp1/2/5	1
+nmda1	1
+lstrobp2/3/4/12/13	1
+lstrcsp13/5/10	1
+lstror12/21/31/68	1
+lstrsnmp2-2	1
+ghapx1	1
+aspp1	1
+apoptosis-stimulating protein of p53 1	1
+ifitm3	1
+interferon-induced transmembrane protein 3	1
+puma	1
+interferon regulatory factor 1	1
+nmcas9	1
+ha3a	1
+gi/gl	1
+atbim1	1
+transforming growth factor-beta 1	1
+phospho1	1
+atpyl9	1
+gpx1 and 3	1
+advanced glycation end product-specific receptor	1
+ager	1
+mucin-like protein	1
+alkaline phosphatase	1
+dentin sialoprotein	1
+osterix	1
+runx2	1
+atrdr6	1
+argonaute 2	1
+arp	1
+atswi3c	1
+brca1	1
+brahma	1
+brushy1	1
+caf:1	1
+chr5	1
+chr11/17	1
+cipk11	1
+cbl- interacting protein kinase 11	1
+cmt3	1
+chromomethylase 3	1
+fas1/2	1
+fasciata1/2	1
+gmi1	1
+ham1	1
+ham2	1
+haf1	1
+transferase	1
+histone deacetylase 1	1
+histone deacetylase 6	1
+hira	1
+ino80	1
+kin1/2: kinase 1 /2	1
+met2	1
+methyltransferase 2	1
+mms21	1
+msi1	1
+nrp1	1
+nrp2	1
+parp1	1
+poly-adp ribose polymerase	1
+pkl	1
+pkr1/2	1
+pickle related 1/2	1
+ros1	1
+repressor of silencing 1	1
+rpa1e	1
+replication protein a 1e	1
+sepallata3	1
+sister chromatid cohesion protein 3	1
+smc1	1
+smc3	1
+splayed	1
+smc5	1
+lyp	1
+cesa4, 7, and 9	1
+ace2	1
+dace2	1
+ran1	1
+ras-related nuclear protein	1
+atdyt1	1
+dyt1-3	1
+cpa1	1
+isoamylase 1	1
+atxxt1-5	1
+atxxt1/2	1
+atxxt4	1
+suppressor of max2-like 6	1
+v1-1	1
+obp	1
+chromomethylase3	1
+anion exchanger 1	1
+bor1p	1
+fba8	1
+tub3	1
+tub4	1
+tub7	1
+act7	1
+ccoaomt1	1
+atparp1	1
+atrpa1e	1
+cytidine triphosphate synthase	1
+ctps	1
+glabra1	1
+myb23	1
+myb82	1
+glabra3	1
+enhancer of glabra3	1
+egl3	1
+testa8	1
+tt8	1
+transparent testa glabra1	1
+clpr1	1
+pip2;2	1
+sscd1	1
+nhx-1	1
+interleukin (il)-1beta	1
+mul	1
+pam	1
+calcium caffeine zinc sensitivity1a	1
+ccz1a	1
+ccz1b	1
+guanine nucleotide exchange factor	1
+microrna-315-5p	1
+cgl1	1
+n-acetyl-glucosaminyltransferase i	1
+kor1	1
+switch1	1
+switch1/dyad	1
+ceramide synthase-3	1
+serine palmitoyltransferase (spt)2	1
+ceramide synthase (cers)3	1
+sms2	1
+thymic stromal lymphopoietin	1
+nf-kb1	1
+imiglucerase	1
+manganese superoxide dismutase	1
+s6k	1
+tnfa	1
+fanconi anemia complementation group m	1
+yca1	1
+set1	1
+amino acid transporter	1
+mlh3	1
+atmlh3	1
+fertilization-independent seed 2	1
+tumor necrosis factor (tnf) alpha	1
+neonatal fc receptor	1
+halb	1
+hfcrn	1
+ornithine decarboxylase 1	1
+neuraminidase and rna-dependent rna polymerase	1
+a/pr/8/34	1
+cytochrome p450 2e1	1
+hvsusiba2	1
+succinic semialdehyde dehydrogenase	1
+htgf-beta1	1
+cathepsins b and l	1
+cathepsin l	1
+sterol regulatory element-binding protein 1	1
+acetyl-coa carboxylase 1	1
+enhanced response to aba1	1
+atfkbp12	1
+dmt1	1
+zmpepc	1
+zmnadp-mdh	1
+zmnadp-me	1
+chz1	1
+atrgp2	1
+beta-glucosidase 1	1
+amyc2	1
+myb30	1
+pep carboxykinase	1
+pck	1
+constitutive triple response 1	1
+ethylene-insensitive 2	1
+ppargamma coactivator-1alpha	1
+erd4	1
+arf2	1
+atpip2	1
+pip2	1
+atakt1	1
+acs2	1
+mir843	1
+acs4	1
+sam2	1
+pal1	1
+raip	1
+sbe4	1
+phosphoenolpyruvate (pep) carboxylase	1
+pyruvate orthophosphate dikinase	1
+pdat	1
+atdgat1	1
+atpdat	1
+tyrosinase-related protein 2	1
+beta-trcp	1
+nfkappab-p65	1
+mitogen-activated protein kinase 3	1
+epidermal growth factor receptor	1
+age	1
+ribosomal protein s8	1
+atg7	1
+rpl22	1
+nlp7	1
+rg4	1
+attpd1	1
+oxophytodienoic acid reductase 3	1
+spo11-2	1
+caf2	1
+fbxo32	1
+atrogin-1	1
+trim63	1
+murf1	1
+lsh2	1
+mint	1
+alcohol dehydrogenase 1	1
+divalent metal transporter 1	1
+zb8	1
+creatine kinase	1
+elp1	1
+tempranillo1	1
+tem1	1
+tem2	1
+atsun1	1
+atsun2	1
+herg	1
+atcngc2	1
+atcngc4	1
+light-dependent short hypocotyl 3	1
+mammalian target of rapamycin	1
+glutathione-s-transferase p1	1
+nucleoporin	1
+enhanced disease susceptibility 1	1
+phytoalexin deficient 4	1
+pancreatic/duodenal homeobox protein 1	1
+insulin 1	1
+bbd1	1
+bbd2	1
+angiotensin i-converting enzyme	1
+atsmax1	1
+akr4c8	1
+tlr9	1
+castor1	1
+sid2	1
+caspase-3; and 5	1
+sgf11	1
+sus1	1
+sgf73	1
+cytotoxic t lymphocyte-associated antigen-4	1
+bes1	1
+smad2	1
+smad7	1
+csnpr1-1	1
+csnpr1-3	1
+cspr1-1	1
+atadc2	1
+gap1	1
+can1	1
+alp1	1
+zmadf1/2/7/12/13	1
+bzip23	1
+il17a	1
+il22	1
+s100a9	1
+krt1	1
+p38 mitogen-activated protein kinase	1
+cullin 3	1
+cul3	1
+nad(p)h:quinone oxidoreductase 1	1
+msra	1
+msrb2	1
+msrb3	1
+atp-binding cassette subfamily g member 5/8	1
+atlpr1	1
+ataxia-telangiectasia-mutated	1
+ataxia telangiectasia and rad3-related	1
+cyclind1	1
+grains height date 7	1
+pseudo-response regulator 5	1
+prr7	1
+prr3	1
+prr9	1
+rna-binding protein	1
+ml-1 and 19.1	1
+phytochrome interacting factor 1	1
+atpif1	1
+succinate receptor 1	1
+coagulation factor 7	1
+cf7	1
+pig-k	1
+osga20ox2	1
+osnas3	1
+fab2	1
+fad3/7/8	1
+fad6	1
+des1	1
+sld1	1
+phosphoinositide 3 kinase	1
+monocyte chemoattractant protein-1	1
+mcp-1	1
+light-dependent short hypocotyls 1 and oryza g1	1
+fap7	1
+lipopolysaccharide (lps)-binding protein	1
+sir2	1
+sch9	1
+rim15	1
+msn2	1
+asg1	1
+mitogen-activated protein kinase 14	1
+mizu-kussei1	1
+co1	1
+csn5	1
+hos2	1
+pathogenesis-related protein 1	1
+claudin-1	1
+claudin-4	1
+reg3g	1
+b-cell lymphoma 2	1
+nuclear factor erythroid 2-related factor	1
+cu/zn superoxide dismutase	1
+ataurora1	1
+ggr	1
+ggr and protochlorophyllide oxidoreductase	1
+vsrna1-2	1
+vsrna2-2	1
+vsrna1-1	1
+cox4	1
+feo	1
+rbr	1
+atrbr	1
+atmsi1	1
+nicotinamide adenine dinucleotide phosphate oxidase 4	1
+intercellular adhesion molecule 1	1
+endothelial nitric oxide synthase	1
+ectonucleoside triphosphate diphosphohydrolase 1	1
+ecto-5'-nucleotidase	1
+helicase	1
+zag3	1
+atcaf1	1
+rag1	1
+cyp3a2	1
+pyrabactin resistance1	1
+osteoprotegerin	1
+runt-related transcription factor 2	1
+receptor activator of nuclear factor-kappa b ligand	1
+atpskr1	1
+omega-3 fatty acid desaturase	1
+anthocyanin	1
+iii	1
+cul1	1
+mkk1/2	1
+camp response element binding (creb)	1
+muts homologue 4	1
+matrix metallo-proteinase-1	1
+matrix metalloproteinase-13	1
+hasty	1
+exportin-5	1
+xpo5	1
+ataxia-telangiectasia mutated	1
+checkpoint kinase 2	1
+murine double minute 2	1
+nuclear factor erythroid 2	1
+sxl	1
+tra	1
+dsx	1
+atjub1	1
+transforming growth factor beta 1	1
+nuclear factor (erythroid-derived 2)-like 2	1
+sh4	1
+atpcna1/2	1
+mmp-13	1
+glutathione s-transferase placental form	1
+c-jun n-terminal kinases	1
+glycogen synthase kinase-3beta	1
+gsk-3beta	1
+nad(p)h: quinone oxidoreductase1	1
+mafa	1
+acyl-coa synthetase 5	1
+vire2-interacting protein 1	1
+atmax4	1
+atcyp707a4	1
+vvpr1	1
+atpdx1.1	1
+atpdx2	1
+acyl-coa-binding protein	1
+acbp3	1
+nitrilase1	1
+tom	1
+foxo1	1
+foxo3	1
+acs11	1
+iaa1	1
+abf4	1
+calpain 1	1
+atpup1	1
+cox24	1
+cox1	1
+nac8	1
+nac2	1
+nac6	1
+nadph-dehydrogenase-quinone-1	1
+brassinosteroid-insensitive1 suppressor1	1
+br insensitive2	1
+brassinosteroid insensitive 2	1
+pepc1	1
+phosphoenolpyruvate carboxylase 1	1
+tkpr1	1
+no catalase activity 1	1
+c1, c2)	1
+c3, c4	1
+c1, c3	1
+cup2	1
+chlorina1/nitrate transporter1.1	1
+acid beta-glucosidase	1
+cyclin b1	1
+cdc25	1
+parp-1	1
+p65	1
+atmc1	1
+atmc3	1
+atmc4	1
+atmc9	1
+fructose-1,6-bisphosphatase	1
+monosialoganglioside(gm1), a receptor	1
+hsfa3	1
+hsp18.2	1
+blade-on-petiole1	1
+bop1	1
+tt4	1
+foxo	1
+zwischenferment	1
+gstd2	1
+gste1	1
+tsc1	1
+4e-bp	1
+dopr	1
+syntaxin	1
+enhancer of invasion 10	1
+lbd17	1
+lbd29	1
+swn	1
+mta	1
+atesd4	1
+peptide transporter 1	1
+cd 2	1
+f2 and f3	1
+trap	1
+fas ligand	1
+granzyme b	1
+polyketide synthase a/less adhesive pollen 6	1
+pksa/lap6	1
+dre2	1
+fm	1
+glyceraldehyde 3-phosphate dehydrogenase	1
+sds3	1
+serine palmitoyltransferase (spt) 2	1
+ceramide synthase (cers) 3	1
+spt1	1
+sphingomyelin synthase (sms) 1/2	1
+acid sphingomyelinase	1
+asm	1
+oxidoreductase	1
+s(-ii	1
+sit4	1
+ppe1	1
+eceriferum1	1
+grf2	1
+rgrf2	1
+increased metalloproteinase (mmp)-1	1
+senescence-associated receptor-like kinase	1
+hc5	1
+plasmin	1
+insulin like growth factor binding protein 5	1
+growth hormone receptor	1
+claudin-1, -3, -4, and zo-1	1
+calb1	1
+sst	1
+ntrk2	1
+trkb	1
+pvalb	1
+gria1	1
+gria2	1
+gria3	1
+grin2a	1
+phragmoplast-associated kinesin-related protein	1
+atbbx22	1
+der1	1
+g h)-1 and 1	1
+g h)-1 and 0	1
+nfr1ed	1
+nfr5ed	1
+atrfc1/3/4	1
+rfc2	1
+rfc3	1
+rfc5	1
+atrfc5	1
+atrfc4	1
+atrfc3	1
+atrfc2	1
+snt2	1
+atmt2b	1
+atmt3	1
+atmt1a	1
+atmt2a	1
+snat	1
+atwox11	1
+atbik1	1
+atcpk28	1
+junction adhesion molecule-a	1
+regulatory-associated protein of tor 1b	1
+atwox4	1
+liver-type fatty acid binding protein	1
+toll-like receptor-4	1
+slccd7	1
+nrt2.1	1
+frd3	1
+atfrd3	1
+angustifolia3	1
+atpht1;3	1
+aox1a	1
+ataox1a	1
+atndb2	1
+atk1	1
+atk5	1
+mads-box transcription factor 1	1
+peroxisome proliferator activated receptor gamma	1
+ppar-delta	1
+glucose-6-phosphate-dehydrogenase	1
+bon1	1
+calcineurin b-like protein 1	1
+dcaps	1
+ati2	1
+amp-activated protein kinase	1
+insulin receptor substrate-1	1
+glucose transporter-2	1
+peroxisome proliferator activated receptor-alpha	1
+irx4	1
+histone deacetylase 10	1
+histone deacetylase 14	1
+atcat3	1
+atcat2	1
+nitrogen limitation adaptation	1
+phosphate transporter 5	1
+atnap14	1
+nuclear factor-erythroid 2-related factor-2	1
+eukaryotic release factor 1	1
+erf1	1
+stp	1
+branch angle defective 1	1
+bad1	1
+atmgt6	1
+sodium-dependent glucose transporter 1	1
+glucose transporter (glut) 2	1
+hepatocyte nuclear factor (hnf)-1alpha	1
+hnf-1beta	1
+hnf-4alpha	1
+insulin receptor substrate 1	1
+phosphoinositide 3-kinase	1
+pkb	1
+glycogen synthase kinase (gsk)-3beta	1
+cysteine-protease	1
+fructokinase-like 1	1
+atfln1	1
+epidermal growth factor receptor-2	1
+e-cadherin	1
+fibronectin	1
+vimentin	1
+caga	1
+xiap	1
+suvh7	1
+suvh8	1
+suvr1	1
+suvr3	1
+enhancer of zeste homolog 2	1
+sams1	1
+sams	1
+athyl1	1
+manalpha1-6	1
+alpha1-3 and alpha1-6	1
+foxo3a	1
+cellulose synthase interacting1	1
+ntmc2 type 1.1	1
+ntmc2t1.1	1
+atsyt1	1
+hgshs	1
+gshs	1
+ehd4	1
+hyaluronan synthase 2	1
+fsm1	1
+ifnar1	1
+period circadian protein (per) 2	1
+cryptochrome (cry) 1	1
+superoxide dismutase (sod) 1	1
+brain-muscle arnt-like protein (bmal) 1	1
+catechol-o-methyltransferase	1
+atclv1	1
+atclv3	1
+atcwinv2	1
+athyh	1
+lipid binding protein	1
+atsps1	1
+atsps2	1
+nha1p	1
+pdr12p	1
+qdr2p	1
+mms2	1
+alk	1
+pon1	1
+quinone reductase	1
+interleukin-8	1
+rlv 1 and 2	1
+atbsk1	1
+heso1	1
+urt1	1
+mac-3	1
+ugt72b1	1
+aterf15	1
+atpub23	1
+sap	1
+gork	1
+gcd1	1
+gamete cells defective1	1
+tso2	1
+mgl-1	1
+cad1-3	1
+cad2	1
+b1 and ochratoxin a	1
+snc1-1	1
+p-glycoprotein	1
+myb3	1
+myb7	1
+myb11	1
+myb12	1
+myb32	1
+myb111	1
+gun4	1
+chli1	1
+myo1	1
+brassinosteroid insensitive2	1
+myo2	1
+galactinol synthase 2	1
+atput5	1
+atput2	1
+atput3	1
+atcbp60g	1
+lrr-rlk	1
+eef1a	1
+retinol binding protein 4	1
+irs-2	1
+glut-1	1
+glut-4	1
+cyp7alpha1	1
+atg14	1
+barkor	1
+mms4	1
+eme1	1
+atmyb55	1
+tac1	1
+coi1-13	1
+lilacs	1
+cer6	1
+pkcalpha	1
+keap 1	1
+nqo-1	1
+pyruvate carboxylase	1
+peptide yy	1
+apl3	1
+chalcone synthase gene	1
+chs	1
+nced9	1
+urine hg	1
+atstn8	1
+plastid transcriptionally active chromosome protein 2	1
+ptac2	1
+beta-2-microglobulin	1
+caspase 3/7	1
+cjun	1
+itga2b	1
+got1p	1
+pick	1
+ksl5	1
+caspase-3, -8, -9	1
+argonaute7	1
+mir390	1
+pip1"	1
+atmpk4	1
+hox	1
+low phosphate root1	1
+lpr1	1
+lpr2	1
+phytochrome-interacting factor 4	1
+ribonuclease 1	1
+dex1	1
+histone acetyltransferase gcn5	1
+chd1	1
+ribonucleoprotein	1
+gls2	1
+mitotic arrest-deficient 2	1
+mad2	1
+ira1/2	1
+cop9 (constitutive photomorphogenesis 9	1
+atcsn5a	1
+atcsn5b	1
+pathogenesis-related gene 1	1
+eef-1a	1
+lep	1
+adiponutrin	1
+adpn	1
+radiation sensitive1	1
+zmnf-ya1, 3, 4, 6, 7, 10, 12, and 13	1
+zmnf-ya1	1
+aberrant growth and death2	1
+coherent x-ray imaging data bank	1
+terminal deoxynucleotidyl transferase	1
+atgsl8	1
+atgsl10	1
+suppressor of overexpression of constans1	1
+bip	1
+atrcn1	1
+cdc2	1
+fc receptor	1
+zmmyb31	1
+zmmyb42	1
+o-methyltransferase	1
+cpt-1a	1
+myb transcription factor	1
+gnrh-r	1
+fsh-r	1
+lh-r	1
+srebp-2	1
+s1, s2, s6	1
+sem 2	1
+piwi	1
+b2 microglobulin	1
+salivap-3	1
+atabcg32	1
+fae1	1
+ccaat enhancer-binding protein (c/ebp)-alpha	1
+c/ebp-beta	1
+sodium-glucose cotransporter-1	1
+alanine aminotransferase	1
+wrky57	1
+gp-ii and gp-iii	1
+interleukin-4 and -6	1
+argonaute-2	1
+nuclear factor y subunit c10	1
+nf-yc10	1
+dehydration-responsive element binding protein 2a	1
+ura5	1
+p47 phox	1
+nox1	1
+tumor necrosis factor	1
+sferh-1	1
+nadph oxidase-2	1
+caspase-8, -9, and -3	1
+trichomeless1	1
+tcl1	1
+nuclear factor y	1
+atnf-yb2	1
+atnf-yb3	1
+atnf-yc1	1
+atnf-yc2	1
+atnf-yc3	1
+atnf-yc9	1
+cd3	1
+stat1	1
+eds5	1
+jar1	1
+cytochrome c oxidase subunit i	1
+cytochrome b	1
+suppressor of fatty acid desaturase 1	1
+g3p	1
+gfp-osiaa9	1
+arf5	1
+arf6, 7, 8 and 19	1
+ll-37	1
+vtc1-1	1
+gfp-rcn1	1
+arabidopsis chitin elicitor receptor kinase 1	1
+sec62p	1
+sec62	1
+toll	1
+atacbp2	1
+h2ax	1
+rna-dependent rna polymerases	1
+mitogen-activated protein kinase kinase kinase	1
+mitogen-activated protein kinase kinase	1
+matrix metalloproteinase 2	1
+mmp2	1
+mmp9	1
+atccx3	1
+atccx5	1
+trk1trk2	1
+atfdc2	1
+ferredoxin-like protein	1
+nf-yc4	1
+suppressor of max2 1	1
+topless-related protein2	1
+branched1	1
+ubc	1
+tip41	1
+5-enolpyruvylshikimate-3-phosphate synthase	1
+atabi1	1
+atabi2	1
+eukaryotic translation initiation factor 4a	1
+sweet1	1
+longifolia 1	1
+longifolia 2	1
+ctr	1
+pho90	1
+pho91	1
+hsp20	1
+cyp707a1	1
+short vegatative phase	1
+gastrointestinal peptide	1
+emr1	1
+ssk2	1
+atccd7	1
+srebf1	1
+fasn	1
+nos-2	1
+phenylalanine ammonia lyase	1
+grr1	1
+heat shock protein 90	1
+cpt1a	1
+atsus1	1
+sterol regulatory element-binding protein 1c	1
+p47phox	1
+taobf1a	1
+taobf1b	1
+ciszog1	1
+gsl12	1
+toll-like receptor (tlr)-2	1
+tlr-9	1
+knotted1-like homeobox	1
+atlrl3	1
+cap350	1
+neuronal no synthase	1
+hdmc1	1
+dipeptidyl peptidase-iv	1
+athb8	1
+alpha-sma	1
+desmin	1
+myb58	1
+myb63	1
+lup2	1
+vg	1
+orf1 and 2	1
+hrd3	1
+beta1-2	1
+beta1	1
+beta1,2	1
+atwrky25	1
+slwrky33a	1
+slwrky33b	1
+kog1	1
+or 3 10	1
+iaa3	1
+lox2	1
+kasi	1
+mitogen activated protein kinase	1
+trm	1
+atgata21	1
+atsr	1
+cdf1	1
+peptidyl-prolyl isomerase-like 1	1
+alaat2	1
+mir390a	1
+sal1	1
+slc45a2	1
+solute carrier family 45 member 2	1
+erv14p	1
+atabi3	1
+atfus3	1
+proteinase a	1
+caspase-3, -8, and -9	1
+vpe	1
+matrix metalloproteinases-2	1
+nuclear factor kappa b p65 (nf-kappab p65	1
+arr3	1
+shm1	1
+bat1	1
+phytochrome-interacting factor4	1
+proinsulin	1
+qua1-2	1
+glu2	1
+sut2	1
+ethylmalonic encephalopathy protein1	1
+ribulose-1,5-bisphosphate carboxylase/oxygenase	1
+nuclear factor kappa-b	1
+superoxide dismutase	1
+atcyp51	1
+more axillary growth 1	1
+plk1-interacting checkpoint helicase	1
+chr24	1
+mbf1c	1
+ilv1p	1
+phya'	1
+atrazine chlorohydrolase gene	1
+lum	1
+glucose-dependent insulinotropic polypeptide	1
+sterol regulatory element-binding protein (srebp)-1c	1
+hxt2	1
+hxt7	1
+aad10	1
+adh7	1
+rpt6a	1
+bxl2	1
+ormdl3	1
+eea1	1
+rabenosyn-5	1
+rabaptin-5	1
+rabgap5	1
+ethylene insensitive 3 and oresara 1	1
+cpsar1	1
+cpraba5e	1
+atrop9	1
+mitofusin 1	1
+monocyte chemotactic protein (mcp)-1	1
+tumour necrosis factor (tnf)-alpha	1
+gamma interferon (ifn-gamma	1
+mir172b	1
+granule-bound starch synthase i	1
+envelope glycoprotein (e) to a receptor	1
+tga	1
+glo2	1
+ataba2	1
+atubc13b	1
+a2, b1 and b2	1
+nad(h) kinase	1
+nucleoside diphosphate kinase	1
+hth	1
+atmyb69	1
+atmyb75	1
+num1	1
+caspase-3 and-9	1
+vire2 interacting protein 1	1
+matrix metalloproteinase-2, -9	1
+tissue inhibitors of matrix metalloproteinases (timp)-1, 2	1
+mmp-2, 9	1
+timp-1	1
+atrad51d	1
+c reactive protein	1
+xyg xylosyl transferase 1	1
+xxt1	1
+xxt2	1
+delta1-pyrroline-5-carboxylate synthetase 1	1
+rd22	1
+responsive to dehydration 29b	1
+atxrn4	1
+toll-like receptor 2 and 4	1
+tlr2	1
+carcass weight	1
+brassinosteroid	1
+brassinosteroid-insensitive1	1
+atisa1	1
+atisa2	1
+isa1isa2	1
+zmpao1	1
+wox8	1
+wox9	1
+dihydrofolate reductase	1
+thymidylate synthase	1
+histidine (his) kinase	1
+xyloglucan endotransglycosylase7	1
+atgrf4	1
+atgrf5	1
+atgrf6	1
+knotted-like from arabidopsis thaliana2	1
+chitin elicitor receptor kinase 1	1
+cerk1-2	1
+nuclear factor-kappa b	1
+extracellular signal-regulated protein kinase	1
+atserk3	1
+interleukin (il)-4	1
+ifs1	1
+ifs2	1
+low-density lipoprotein receptor	1
+srebp-1 and -2	1
+acyl-coa:cholesterol acyltransferase 1	1
+acat1	1
+epidermal growth factor	1
+atrbp45a	1
+atrbp47a	1
+arabidopsis trithorax protein1	1
+caspase-9 and-3	1
+ami1	1
+myc	1
+radical-induced cell death 1	1
+estrogen receptor-beta	1
+calcium-binding protein	1
+heat shock protein 70 kda	1
+interleukin (il)-4 receptor	1
+caspases	1
+c4-pepc	1
+atsod1	1
+mitogen-activated protein kinases	1
+rbx1	1
+atp5cs1	1
+pancreatic and duodenal homeobox-1	1
+interleukin-7	1
+er	1
+insulin-like growth factor binding protein-3	1
+higfbp-3	1
+acr3	1
+atp8	1
+pao5	1
+cx	1
+peroxisome proliferator-activated receptor-alpha and -gamma	1
+cam4	1
+enhancer1 of da1	1
+wuschel (wus)-related homeobox 5	1
+ndhf	1
+cesa4/7/8	1
+ga locus 5	1
+casein kinase iialpha	1
+constitutive triple response1	1
+glna	1
+taarg	1
+tacipk14	1
+thyroid receptor-interacting protein13	1
+pal	1
+receptor-interacting serine-threonine kinase 3	1
+high-mobility group protein b1	1
+ck)	1
+athpt1	1
+sod 1	1
+sod 2	1
+peroxisome proliferator-activated receptor (ppar)-gamma	1
+gata-3	1
+signal transducer and activator of transcription 6	1
+cah1	1
+rb60	1
+tatpc1	1
+myb60	1
+sirt1-7	1
+sirt4	1
+nf-kappab (p65)	1
+toll-like receptor (tlr) 2	1
+nod1 and 2	1
+clpp6	1
+cell number regulator 1	1
+atcyp78a10	1
+3-hydroxy-3-methylglutaryl coenzyme a reductase	1
+peroxisome proliferator-activated receptor alpha	1
+liver x receptor alpha	1
+sterol regulatory element-binding protein-2	1
+epf1	1
+edt1	1
+extensin	1
+gstm1	1
+glutamate-cysteine ligase catalytic subunit	1
+calreticulin	1
+hip	1
+s1, 2, 4, 5, 6 and 10	1
+l1l	1
+fusca3	1
+aba-insensitive3	1
+atabcg26	1
+nfr1alpha	1
+nfr1beta	1
+narrow sheath1	1
+sepallata 4	1
+hfcd+c3g	1
+pp2c	1
+inducible nos	1
+ribosomal protein l16	1
+ribosomal protein s12	1
+nad1	1
+maize enhancer of zeste-like2	1
+cow1	1
+hyponastic leaves1	1
+cbp80	1
+abh1	1
+cbp20	1
+serrate	1
+ns1	1
+ns2	1
+hsr203j	1
+il-7	1
+interleukin 7	1
+sema	1
+eaf5	1
+bhlh	1
+atf6	1
+hma2	1
+atsgt1b	1
+5-lipoxygenase	1
+envelope protein domain iii	1
+den 1-4	1
+ask2	1
+nttkpr1	1
+atlec1	1
+hap3	1
+dgl1	1
+ost48	1
+wbp1	1
+cer 2	1
+ccl-2	1
+pc6	1
+atsuc1	1
+proton gradient regulation 5	1
+atidd15/shoot gravitropism5 (sgr5) gene	1
+(as(v)	1
+trnc	1
+dreb)1b	1
+cbf2	1
+dreb1c	1
+cbf4	1
+hvpip1;2	1
+znt-2	1
+zn transporter 2	1
+atmtp1	1
+ipp2	1
+atfla12	1
+lxralpha	1
+dopachrome tautomerase	1
+rgl3	1
+fiery2	1
+cpl1	1
+vin3	1
+vrn5	1
+ntcp2	1
+atserpin1	1
+tapetum determinant1 (tpd1)	1
+glutamate cysteine ligase modulatory subunit	1
+mterf defective in arabidopsis1	1
+sca3	1
+soldat10	1
+rug2	1
+attps1	1
+attps2, 3, and 4	1
+pip	1
+g protein gamma subunit (agg3)	1
+receptor kinase (at)cerk1	1
+transport inhibitor response 1	1
+heme oxygenase	1
+poly(adp-ribose) polymerase	1
+gma-mir160	1
+basic leucine zipper 60	1
+mei4	1
+zhp-3	1
+cg6989	1
+dmoctbeta2r	1
+cyclic amp response element-binding protein	1
+tyrosinase-related protein (tyrp) 1	1
+ep-1	1
+ge2	1
+purple acid phosphatase 2	1
+lysm-containing receptor-like kinase1/chitin elicitor receptor kinase1	1
+lyk2, -3, -4, or -5	1
+vit1	1
+3-hydroxy-3-methylglutaryl-coa reductase	1
+cystatin c	1
+heat shock protein90	1
+dermatophagoides pteronyssinus group 1 allergen (der p 1	1
+arr6	1
+atyuc10	1
+zmsh1-1	1
+adipose triglyceride lipase	1
+jaz9	1
+green ripe	1
+atcbk3	1
+atpp7	1
+e-selectin	1
+tassel sheath1	1
+drm1	1
+cacl	1
+atpho2	1
+elf1	1
+mads3	1
+flowering bhlh 1	1
+fbh2	1
+fbh3	1
+fbh4	1
+short vegetative phase	1
+filamentous flower	1
+polyprotein p1	1
+a-25	1
+caspase-3, -8 and -9	1
+sucrose-h(+) symporter (atsuc2	1
+cyp90b1	1
+bor4	1
+il1-beta	1
+rsv-cp	1
+ribosomal protein l32	1
+aldh1l1	1
+bhmt	1
+cbs	1
+folr1	1
+mtrr	1
+shmt1	1
+tyms	1
+ggh	1
+gss	1
+atals1	1
+med32, -33, -34, -35, -36, and -37	1
+med32	1
+med2/29	1
+med5/24	1
+upbeat1	1
+upb1	1
+zmbx1	1
+low-density lipoprotein receptor adapter protein 1	1
+snd1	1
+nst1	1
+myb83	1
+myelin basic protein	1
+puralpha-1	1
+str1	1
+jun n-terminal kinase	1
+extracellular-regulated kinase	1
+activating protein 1	1
+cer3	1
+yre	1
+flp1	1
+granulocyte macrophage-colony stimulating factor	1
+granulocyte/macrophage colony-stimulating factor	1
+agp2	1
+phosphate transporter traffic facilitator1	1
+pht1;1	1
+atphf1	1
+gamma-glutamyl transpeptidase	1
+starch synthase (ss) i and iiia	1
+atsgs3	1
+sgs3	1
+atp-beta	1
+tartrate-resistant acid phosphatase 5b	1
+ccl5	1
+ccl17	1
+ccl27	1
+constitutive photomorphogenic1	1
+gata	1
+pr-2	1
+pr-5	1
+pdf1	1
+pr-3	1
+pr-4	1
+atvsp1	1
+dcl2	1
+atdcl2	1
+pdr5	1
+ent-kaurene synthase	1
+aflatoxins b1, b2, g1	1
+zmsgo1	1
+hkt1;1	1
+tps1	1
+tps2	1
+sfr6	1
+p-selectin	1
+atxyp2	1
+aqp1	1
+barren stalk1	1
+atmapk12	1
+taivr1	1
+higf-i (rhigf-i	1
+acd5	1
+abar	1
+sub2p	1
+light-dependent short hypocotyls 4	1
+cyp72c1	1
+chi2	1
+shk1	1
+pns12	1
+galt	1
+ilr1	1
+gst-ilr1	1
+atsap7	1
+vicilin	1
+msb2	1
+sho1	1
+orp3c	1
+orp3b	1
+thioredoxin-like	1
+mcm1	1
+protein kinase bub1	1
+deleted in azoospermia-associated protein1	1
+dazap1	1
+atglyi8	1
+atglyi4	1
+atglyi7	1
+nog2	1
+wnk1	1
+atwnk10	1
+l at 2	1
+squamosa promoter binding protein-like 3	1
+spl3	1
+pgsip1	1
+aquaporin-2	1
+aquaporin-3	1
+sweet8	1
+gln1-3	1
+atvsr2	1
+fatty acid binding protein 2	1
+peroxisome proliferator-activated gamma	1
+hak	1
+poly (adp-ribose) polymerase	1
+upa	1
+cobra-like 4	1
+brittle stalk 2	1
+atpdk1	1
+atcand1	1
+cand1	1
+lxra	1
+nadph cytochrome p450 oxidoreductase	1
+chemokine (c-x-c motif) ligand-10	1
+inducible no synthase	1
+p38 mapk	1
+hcf152	1
+attpr1	1
+attpr2	1
+tasag1	1
+tasag6	1
+sln1p	1
+sln1	1
+atwrky75	1
+edr1	1
+beta3-adrenergic receptor	1
+beta 3 adrenergic receptor	1
+p75 neurotrophin receptor	1
+atoxi1	1
+mir851	1
+mir319	1
+atg31	1
+sp2	1
+phytoene synthase, phytoene desaturase	1
+patatin	1
+i kappab-alpha	1
+peroxisome proliferator-activated receptor (ppar)alpha	1
+lxr)alpha	1
+cytochrome p450 (cyp)7a1	1
+trichome birefringence-like3	1
+cellulose synthase	1
+cesa	1
+pie1-2	1
+lpts	1
+nucleotide-binding site	1
+kl	1
+atnoa1	1
+extracellular signal-regulated kinase (erk)1/2	1
+activating protein-1	1
+erk 1/2	1
+mek1	1
+apetala 2/ethylene response element binding protein	1
+nho1	1
+glyoxalase ii	1
+bont	1
+nac1	1
+sed1p	1
+afg(1	1
+afg(2	1
+mitogen-activated protein kinase (mapk) kinase 1	1
+src	1
+nanos	1
+interleukin-3	1
+rymv1-5	1
+rymv1-1	1
+gamma glutamyl transferase	1
+acaulis 5	1
+phosphatidylinositol 3-kinase	1
+dre	1
+amyloid precursor protein	1
+fibroblast growth factor-2	1
+transforming growth factor-beta1	1
+tas2	1
+tas4	1
+alcohol dehydrogenase	1
+cytochrome p450 type 2e1	1
+aldehyde dehydrogenase	1
+atplc1	1
+atmyb2	1
+atsac1	1
+mef1	1
+mef11	1
+paclobutrazol resistance1	1
+clock associated1	1
+sep1	1
+sep2	1
+sep4	1
+cip1	1
+waf1	1
+squamosa promoter binding protein-like7	1
+spl7	1
+fe superoxide dismutase	1
+zmsut1	1
+atftsh12	1
+hxk1	1
+very low density lipoprotein (vldl) receptor	1
+steroid 5alpha-reductase 2	1
+cytochrome p450 scc	1
+as-c	1
+sdh5	1
+atcth	1
+sec6p	1
+sec8p	1
+sec10p	1
+phytoene synthase 1	1
+log1	1
+log9	1
+galacturonosyltransferase 1	1
+gaut2	1
+gaut11	1
+atpin2	1
+atpin8	1
+roxy1/2	1
+apm1	1
+ein3-like	1
+ac3	1
+sar1	1
+suppresor of overexpression of constans 1	1
+adg2	1
+adpg pyrophosphorylase2	1
+defective kernel1	1
+gpc	1
+coq6	1
+dermatophagoides pteronyssinus (der p 1	1
+taubil1	1
+taubil2	1
+atspx1	1
+elastin	1
+angiotensin-i-converting enzyme	1
+dr4	1
+bak	1
+diablo	1
+bid	1
+caspase-8 and -3	1
+solo dancers	1
+rock-n-rollers	1
+zeaxanthin epoxidase	1
+zmgl1	1
+zmgl4	1
+kin1	1
+vernalization2	1
+vernalization1	1
+uridine-ribohydrolase 1	1
+potato polyphenol oxidase	1
+peroxisome proliferator-activated receptor (ppar) alpha	1
+acyl coenzyme a oxidase (acox) 1	1
+lhs1p	1
+kar2p	1
+kar2	1
+athal3a	1
+amy1	1
+interferon (ifn)	1
+cyp2	1
+aminopeptidase	1
+monodehydroascorbate reductase	1
+jagged	1
+leu2	1
+atg2	1
+atg4	1
+atg9	1
+atg18	1
+sucrose transporter1	1
+apetela3(ap3)	1
+ap3	1
+trf1	1
+rap1	1
+cyp2a6	1
+ki67	1
+roxy19	1
+crz1	1
+map18	1
+receptor-like kinases	1
+wak2	1
+hvaact1	1
+rim1-1	1
+los1p	1
+alpha2	1
+monoamine oxidase b	1
+zmsnrk2.1	1
+atg12	1
+hmg-coa reductase	1
+mik	1
+insulin-like growth factor 1	1
+higf-1(rhigf-1	1
+receptor activator of nuclear factor-kappab ligand	1
+estrogen receptor	1
+recq1p	1
+recq5p	1
+acyl-coa synthetase	1
+suppressor of overexpression of co1	1
+hgstp1-1	1
+hgstp1	1
+ytp1	1
+awp1	1
+n-acetyl-beta-glucosaminidase	1
+toxin	1
+ypc1p	1
+ydc1p	1
+tbp	1
+sth	1
+hyh	1
+pil6	1
+fasciata1	1
+caf-1	1
+mkk2	1
+glutamic pyruvic transaminase	1
+rab18	1
+atpae1	1
+p1 protein	1
+pb1	1
+atapx1	1
+atapx2	1
+atfsd1	1
+ul55	1
+rlm1	1
+mp2	1
+alpha-2	1
+x-ray repair cross complementing 1	1
+pleiotropic regulatory locus 1	1
+arabidopsis snf1 kinase homolog 10	1
+ubc9	1
+alpha' subunit of beta-conglycinin	1
+ifn-g	1
+interleukin-2	1
+retinol binding protein	1
+lpa-1	1
+lpa-3	1
+g48	1
+arr11	1
+arr14	1
+arr18	1
+esr	1
+clavata3/esr	1
+attoc159	1
+attoc132	1
+attoc120	1
+attoc90	1
+pphak1-4	1
+pphak1-1	1
+rb	1
+shatterproof1	1
+seedstick	1
+orf 1 and 2	1
+orf 1	1
+fdiii	1
+unusual floral organ	1
+yabby2	1
+transthyretin	1
+sage	1
+c2 (11), c3	1
+beta-galactosidase	1
+attps2-4	1
+ndhk	1
+apoproteins (apos) ai and b	1
+lipoprotein (a)	1
+inositol 1,3,4-trisphosphate 5/6-kinase	1
+atga20ox1	1
+atga3ox1	1
+atga2ox1	1
+membrane steroid binding protein 1	1
+msbp1	1
+msbp2	1
+atgid1a, b, and c	1
+early flowering4	1
+circadian clock associated1	1
+stm	1
+atbsmt1	1
+zmyab14	1
+rci2a	1
+5-ht1a receptor	1
+5-ht transporter	1
+ago7	1
+atnbs1	1
+elf4	1
+lux	1
+pcl1	1
+atdad1	1
+sulfur limitation1	1
+ethylene-insensitive3-like3	1
+gnom	1
+camkk	1
+zmwus1	1
+zmwus2	1
+hk 1	1
+hk i	1
+atvsr1-7	1
+hvdmas1	1
+cki1	1
+cytoglobin	1
+asr4	1
+asr3	1
+pepcase	1
+wrab19	1
+atips1	1
+pht1;9	1
+fatty acid amide hydrolase	1
+ribosomal protein l27	1
+caspase 3	1
+lp (a)	1
+cyclooxygenase 1 and 2	1
+atl8	1
+atl43	1
+hxk2	1
+as c	1
+te1	1
+atmyb48	1
+lhca5	1
+lhca6	1
+lhca1	1
+lhcb6	1
+lhcb2.3	1
+lhcb4.1	1
+lhcb4.2	1
+emf1	1
+pelle	1
+intensifier1	1
+nuclear factor kappa b	1
+asf/sf2	1
+axr2	1
+ga3	1
+zmys1	1
+glycerol-3-phosphate dehydrogenase	1
+ena1	1
+cup1	1
+gef1	1
+cytochrome p450 cyp1a1	1
+rab8	1
+aalp	1
+sepallata1/2/3	1
+dehydroascorbate reductase	1
+scof-1	1
+nf-kappa b	1
+phytochrome a	1
+phytochrome a (phya)	1
+atpin1	1
+atvex1	1
+gex1	1
+gex2	1
+atftsh5	1
+mgl(-1	1
+alpha-fetoprotein	1
+nucleosome assembly protein 1	1
+histone h2a	1
+cycb1	1
+rpa70a	1
+rpa70b	1
+atp5cs	1
+p5cs	1
+lol1	1
+sk3	1
+cytochrome p450 monooxygenase	1
+ptb2	1
+psr1	1
+arg7	1
+dcl1-4	1
+drb5	1
+lig6	1
+aspartate aminotransferase	1
+flower1	1
+ric4	1
+ste11	1
+ste50	1
+baf53	1
+atubp22	1
+glucagon-like peptide-1	1
+leghemoglobin a	1
+zmpdil5-1	1
+flowering promoting factor 1	1
+cid1	1
+cid7	1
+ataxin-2	1
+pab2	1
+pab5	1
+pdcd5	1
+ribosomal protein s7	1
+prolyl 4-hydroxylase	1
+interleukin 10	1
+tumor necrosis factor a	1
+yab2	1
+yab5	1
+adam 19	1
+rrn5	1
+gln1;1	1
+gln1;2	1
+prolamin box binding factor	1
+glutathione peroxidase 1	1
+atmtk	1
+mtk	1
+silky1	1
+atcol1/2	1
+petb	1
+bm1	1
+p1 and p3	1
+cation exchanger 1	1
+tel1	1
+tel2	1
+nshb1-2	1
+pcmyb1	1
+hgt1met1	1
+yabby3	1
+arc1	1
+adp ribosylation factor 1	1
+glucagon	1
+zmhox1a	1
+wound-inducible protein kinase	1
+wipk	1
+ataf2	1
+p53/mouse double minute 2 homolog	1
+cytochromep450 2e1	1
+cellulose synthase-like	1
+atcbl3	1
+act2	1
+sptrembl	1
+pg2	1
+atcry2	1
+timing of cab expression 1	1
+aprr3	1
+aprr5	1
+aprr7	1
+aprr9	1
+plddelta	1
+si1	1
+br-insensitive 1	1
+trithorax	1
+absent small or homeotic 1	1
+replication protein a	1
+branched silkless1	1
+gcg	1
+orfs 1a and 1b	1
+cp 1 (p43) and cp 2	1
+p39	1
+cp 2	1
+cbr(4)	1
+cdc28	1
+beta-vpe	1
+heat shock protein 101	1
+gfp	1
+apolipoprotein (apo)e	1
+rf2b	1
+rf2a	1
+atpp2a-1, -2 and -5	1
+pab3	1
+hdac1	1
+12-oxophytodienoic acid reductases (opr) 1 and 2	1
+opr1	1
+pi-t	1
+pi-i	1
+atspp1	1
+atspp2	1
+trna(met-e	1
+rna-dependent rna polymerase	1
+dwarf	1
+atglk1	1
+atglk2	1
+snr47	1
+s8	1
+zmmek1	1
+gaga-binding protein	1
+orf iii	1
+adenylate kinase	1
+ak	1
+myo-inositol 1-phosphate synthase	1
+spc98	1
+atspc98p	1
+incw1	1
+incw2	1
+ade2	1
+his3	1
+ura3	1
+spt15	1
+pcf1-1	1
+tfc4	1
+open reading frame (orf) 4	1
+beta-hydroxy-beta-methylglutaryl coenzymea (hmg-coa) reductase	1
+ap1-1	1
+cytochrome p-450	1
+psk-beta	1
+aba insensitive 5	1
+atem6	1
+trna(pro)	1
+fab	1
+asa1	1
+tga2	1
+rpd3p	1
+cpk	1
+c-src	1
+beta-thromboglobulin	1
+tpd3	1
+wx(b)	1
+ribonuclease p	1
+zap1	1
+zmm29	1
+3-hydroxy-3-methylglutaryl-coenzyme a reductase	1
+kn1	1
+rs1	1
+lg4	1
+viviparous-1	1
+esterase	1
+cystatins a and b	1
+sbt1	1
+pdc1	1
+salivary alpha-amylase	1
+csr1	1
+alcohol dehydrogenase1	1
+coat protein 1 and 2	1
+aqy1	1
+caffeic acid 3-o-methyltransferase	1
+zmpk4	1
+fro2	1
+atnramp2-5	1
+cea	1
+b32	1
+hsp81-1	1
+atnrt1	1
+cup-shaped cotyledon2	1
+ns4	1
+rab3a	1
+atp9	1
+alpha1	1
+succinate dehydrogenase subunit b	1
+creatin phosphokinase	1
+immunoglobulin a	1
+iga	1
+ranbp2	1
+rlk5	1
+zmpk1	1
+beta- and beta'-subunits of rna polymerase	1
+rnap	1
+cdk	1
+pst1	1
+dd4	1
+glucose-6-phosphate dehydrogenase	1
+importin beta	1
+secretin	1
+kab1	1
+pma2	1
+tat binding protein-1	1
+respiratory burst oxidase homolog a	1
+rangtpase-activating protein 1	1
+beta-(1-4	1
+elongation factor-2	1
